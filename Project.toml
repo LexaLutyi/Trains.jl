@@ -1,0 +1,13 @@
+name = "Trains"
+uuid = "1f3a048b-ec3d-4899-979f-ceb658c25940"
+authors = ["Aleksei Samarin <liotbiu1@gmail.com> and contributors"]
+version = "0.1.0"
+
+[compat]
+julia = "1"
+
+[extras]
+Test = "8dfed614-e22c-5e08-85e1-65c5234f0b40"
+
+[targets]
+test = ["Test"]
